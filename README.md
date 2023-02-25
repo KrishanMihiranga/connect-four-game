@@ -8,8 +8,6 @@
 * Create a run configuration for Maven via `Run > Edit Configuration`
 * Add `javafx:run` as the `Run` command
 * That's it. 
-* **But do not try to run or compile the application yet**
-* **Follow the instructions in the assignment**
 
 
 ![4 in row 1](https://user-images.githubusercontent.com/119467538/221365426-25dd845c-778e-40c8-920e-3b22fbee22f4.PNG)
