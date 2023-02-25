@@ -1,7 +1,7 @@
 #The Connect-4 Game
 
 ### How to use this repo
-* `git clone https://github.com/Ranjith-Suranga/connect-four-game-assignment.git`
+* `git clone https://github.com/KrishanMihiranga/connect-four-game.git`
 * Open the `pom.xml` via IntelliJ IDEA
 * Make sure to the open it as a project, if prompt
 * Reload the `pom.xml` file via **Maven Tool Window**
