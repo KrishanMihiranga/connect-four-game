@@ -1,0 +1,15 @@
+lk\matrix\connect4\Launcher.class
+lk\matrix\connect4\AppInitializer.class
+lk\matrix\connect4\controller\CreatePlayerController.class
+lk\matrix\connect4\service\BoardUI.class
+lk\matrix\connect4\controller\BoardController$1.class
+lk\matrix\connect4\service\Player.class
+lk\matrix\connect4\util\DEPAlert.class
+lk\matrix\connect4\service\HumanPlayer.class
+lk\matrix\connect4\service\BoardImpl.class
+lk\matrix\connect4\util\DEPAlert$1.class
+lk\matrix\connect4\service\AiPlayer.class
+lk\matrix\connect4\service\Piece.class
+lk\matrix\connect4\controller\BoardController.class
+lk\matrix\connect4\service\Winner.class
+lk\matrix\connect4\service\Board.class
